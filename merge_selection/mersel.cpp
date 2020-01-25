@@ -1,6 +1,4 @@
 //
-//  lab1.cpp
-//  CPS616_LAB01
 //
 //  Created by ARSHIA on 1/23/20.
 //  Copyright © 2020 ARSHIA. All rights reserved.
