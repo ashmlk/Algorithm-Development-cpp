@@ -32,7 +32,7 @@ void merselSort(int array[], int size, int start, int end){
     if(start < end){
         middle = (start + end) / 2;
         
-        if(end - start > size){
+        if(end - start >= size){
             merselSort(array, size, start, middle-1);
             merselSort(array, size, middle+1, end);
         }
