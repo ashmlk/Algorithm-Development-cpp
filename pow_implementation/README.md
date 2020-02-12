@@ -1,4 +1,4 @@
-##pow(x, y) implementation for comparing different divide and conquer algorithms
+## pow(x, y) implementation for comparing different divide and conquer algorithms
 
 * First algorithm is a naive approach to solving the problem using recursion
 * Second algorithm saves the sub-problem state to reduce run time
